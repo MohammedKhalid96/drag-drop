@@ -16,7 +16,7 @@
 .blank-div {
   width: 100%;
   height: 350px;
-  background: #ccc;
+  background: #ebebeb;
   border: 2px solid #fff;
 }
 </style>
